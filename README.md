@@ -16,4 +16,11 @@ https://tachyons.io/#getting-started - Tachyons, CSS Toolkit
 
 
 ### Color-related
-https://coolors.co/ - The super fast color schemes generator
+https://coolors.co/ - The super fast color schemes generator  
+
+
+### Creating apps
+
+https://stackshare.io/stacks - The open source tools and SaaS behind the world's best startups  
+https://firebase.google.com/ - A comprehensive mobile development platform  
+ 
