@@ -1,5 +1,10 @@
 # frontend-resources
 
+A collection of resources, tools and information that I have stumbled on while improving myself at front-end development. 
+
+## HTML
+
+http://www.mashup-template.com/ - Free Beautiful HTML5 Responsive Templates  
 
 ## CSS
 
@@ -25,3 +30,7 @@ https://coolors.co/ - The super fast color schemes generator
 https://stackshare.io/stacks - The open source tools and SaaS behind the world's best startups  
 https://firebase.google.com/ - A comprehensive mobile development platform  
  
+## JavaScript
+
+https://www.getpostman.com/ - API Development Environment  
+https://javascript30.com/ - 30 Day Vanilla JS Coding Challenge  
