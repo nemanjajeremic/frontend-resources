@@ -25,7 +25,10 @@ https://css-tricks.com/ - CSS tricks
 https://coolors.co/ - The super fast color schemes generator  
 
 
-### Creating apps
+### Tools
+https://semantic-ui.com - Semantic UI is a modern front-end development framework, powered by LESS and jQuery  
+
+## Creating apps
 
 https://stackshare.io/stacks - The open source tools and SaaS behind the world's best startups  
 https://firebase.google.com/ - A comprehensive mobile development platform  
@@ -37,5 +40,5 @@ https://javascript30.com/ - 30 Day Vanilla JS Coding Challenge
 
 ## Responsive
 
-https://www.mydevice.io/#
-http://mqtest.io/
+https://www.mydevice.io/#  
+http://mqtest.io/  
