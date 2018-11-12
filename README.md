@@ -34,3 +34,8 @@ https://firebase.google.com/ - A comprehensive mobile development platform
 
 https://www.getpostman.com/ - API Development Environment  
 https://javascript30.com/ - 30 Day Vanilla JS Coding Challenge  
+
+## Responsive
+
+https://www.mydevice.io/#
+http://mqtest.io/
