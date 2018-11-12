@@ -2,6 +2,11 @@
 
 A collection of resources, tools and information that I have stumbled on while improving myself at front-end development. 
 
+## Learning resources  
+https://www.class-central.com/collection/top-free-online-courses?sort=rating-up&utm_source=fcc&utm_medium=email&utm_campaign=newsletter_13_oct  
+https://github.com/ossu/computer-science  
+https://watchandcode.com/p/practical-javascript  
+
 ## HTML
 
 http://www.mashup-template.com/ - Free Beautiful HTML5 Responsive Templates  
