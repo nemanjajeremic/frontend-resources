@@ -16,15 +16,21 @@ http://www.mashup-template.com/ - Free Beautiful HTML5 Responsive Templates
 ### Reads  
 
 https://en.bem.info/methodology/ - BEM Methodology  
+http://getbem.com - More on BEM  
 http://bradfrost.com/blog/post/atomic-web-design/ - Atomic Design  
 https://csswizardry.com/ - CSS Architecture and Performance Engineering  
 https://cssguidelin.es/ CSS Guidelines, High-level - Advice and guidelines for writing sane, manageable, scalable CSS  
 http://outlinenone.com/ - CSS outline property  
+https://easings.net/ - Easing Functions Cheat Sheet  
 https://sass-guidelin.es/ - Sass Guidelines  
 http://mrmrs.cc/writing/2016/03/24/scalable-css/ - CSS and Scalability  
 https://tachyons.io/#getting-started - Tachyons, CSS Toolkit  
-https://css-tricks.com/ - CSS tricks
-
+https://css-tricks.com/ - CSS tricks  
+http://shouldiprefix.com/ - What CSS prefixes should I use?  
+https://sass-lang.com/guide -  Sass Basics  
+https://learncssgrid.com/  - Learn CSS Grid - A Guide to Learning CSS Grid  
+https://necolas.github.io/normalize.css/ - Normalize.css: Make browsers render all elements more consistently.   
+https://academind.com/learn/css/bootstrap-4-tutorial/ - Bootstrap 4 - Complete Introduction  
 
 ### Color-related
 https://coolors.co/ - The super fast color schemes generator  
