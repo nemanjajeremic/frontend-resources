@@ -34,9 +34,10 @@ https://academind.com/learn/css/bootstrap-4-tutorial/ - Bootstrap 4 - Complete I
 
 ### Color-related
 https://coolors.co/ - The super fast color schemes generator  
+https://flexboxfroggy.com/ - Practice your flexbox skills  
 
 
-### Tools
+## Tools
 https://semantic-ui.com - Semantic UI is a modern front-end development framework, powered by LESS and jQuery  
 
 ## Creating apps
