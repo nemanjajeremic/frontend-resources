@@ -54,6 +54,7 @@ https://repl.it - Online IDE
 
 https://www.getpostman.com/ - API Development Environment  
 https://javascript30.com/ - 30 Day Vanilla JS Coding Challenge  
+https://jsperf.com/ - JavaScript performance test cases
 
 ### Reads  
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 - Modern JS explained :)
