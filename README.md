@@ -32,12 +32,12 @@ https://learncssgrid.com/  - Learn CSS Grid - A Guide to Learning CSS Grid
 https://necolas.github.io/normalize.css/ - Normalize.css: Make browsers render all elements more consistently.   
 
 
-###Bootstrap
+### Bootstrap
 https://academind.com/learn/css/bootstrap-4-tutorial/ - Bootstrap 4 - Complete Introduction  
-https://bootswatch.com/ - Free bootstrap 4 themes
-https://startbootstrap.com/template-categories/all/ - Bootstrap 4 templates
-https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price - Bootstrap UI kits and templates
-https://pikock.github.io/bootstrap-magic/ - Bootstrap theme generator
+https://bootswatch.com/ - Free bootstrap 4 themes  
+https://startbootstrap.com/template-categories/all/ - Bootstrap 4 templates  
+https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price - Bootstrap UI kits and templates  
+https://pikock.github.io/bootstrap-magic/ - Bootstrap theme generator  
 
 ### Color-related
 https://coolors.co/ - The super fast color schemes generator  
