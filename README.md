@@ -69,6 +69,7 @@ https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosa
 ### Libraries
 
 https://threejs.org/  - JS 3D Library
+https://vincentgarreau.com/particles.js/ - A lightweight JavaScript library for creating particles  
 
 ## Responsive
 
