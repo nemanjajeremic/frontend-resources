@@ -76,3 +76,7 @@ https://vincentgarreau.com/particles.js/ - A lightweight JavaScript library for 
 
 https://www.mydevice.io/#  
 http://mqtest.io/  
+
+
+## Web development
+https://enable-cors.org/
